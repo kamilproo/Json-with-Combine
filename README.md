@@ -1,2 +1,2 @@
 # Json-with-Combine
-Json api fetching data with frameWork Combine
+Json api fetching data with frameWork Combine MVVM
